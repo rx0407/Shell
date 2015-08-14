@@ -116,6 +116,6 @@ do
 		;;
 		Exit_Install)
 		exit
-		;;
+		;; 
 	esac	
 done	
